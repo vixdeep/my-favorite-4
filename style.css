@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(#fc466b 0%, #f246fc 100%);
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 40px;
+    text-shadow: 4px 4px #616161;
+    color: #D50000;
+    font-family: 'Lobster', cursive;
+}
+
+p {
+    font-size: 18px;
+}
+
+#bio {
+    padding: 50px;
+    text-align: center;
+    margin: 50px;
+}
+
+#welcome {
+    margin: 30px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    position: absolute;
+    padding: 20px;
+}
+.whyawesome{
+    margin-top: 200px;
+}
+
+.links {
+    color: darkviolet;
+    padding-left: 20px;
+    padding-right: 15px;
+    font-family: inherit;
+    font-size: 30px;
+    display: inline;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
